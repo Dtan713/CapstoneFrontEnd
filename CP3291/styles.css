@@ -1,8 +1,8 @@
 head {
-    font-size: 50px;
+    font-size: 100px;
     font-style: normal;
     font-weight: bolder;
-    border-color: black;
+    
 }
 
 
@@ -11,7 +11,7 @@ head {
 
 body {
     color: black;
-    border-color: khaki;
+    background-color: rgb(196, 200, 202);
   }
   
   h2 {
